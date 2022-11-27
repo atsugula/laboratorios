@@ -36,7 +36,7 @@ def assign_rewards():
         names.pop(temp)
         temp = 0
 print("--- PRUEBA DE LOS 100 METROS ---")
-for i in range(5):
+for i in range(10):
     fill_name()
     fill_time()
     print()
